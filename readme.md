@@ -42,6 +42,6 @@
 	And yeilding the result of XLV.
 	
 ### Screenshots.
-![input](/home/icicle/spikes/elixr/arabic_to_roman_converter/imgs/input.png  "User Input")
+![input](./imgs/input.png  "User Input")
 
-![output](/home/icicle/spikes/elixr/arabic_to_roman_converter/imgs/output.png  "Program Output")
+![output](./imgs/output.png  "Program Output")
